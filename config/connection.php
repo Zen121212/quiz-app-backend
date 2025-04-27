@@ -1,5 +1,5 @@
 <?php
-$host = 'localhost:3306';
+$host = 'localhost';
 $port = 3306;
 $db = 'quiz_db';
 $user = 'root';
