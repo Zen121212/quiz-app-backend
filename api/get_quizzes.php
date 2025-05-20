@@ -20,7 +20,7 @@ try {
 
     echo json_encode([
         "message" => "success",
-        "options" => $quizzes
+        "quizes" => $quizzes
     ]);
 
 } catch (\Throwable $e) {
